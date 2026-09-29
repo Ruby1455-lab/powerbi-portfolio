@@ -1,4 +1,4 @@
-# powerbi-portfolio
+
 # 📊 Power BI & Data Analytics Portfolio
 
 Welcome to my portfolio! As a data analyst and computer science enthusiast, I specialize in transforming raw datasets into clean, interactive, and actionable business intelligence dashboards.
